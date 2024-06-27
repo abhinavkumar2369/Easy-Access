@@ -1,9 +1,9 @@
 <div align="center">
-     <h1 align="center">Vite Project</h1>
-     <img src="https://github.com/abhinavkumar2369/Vite-QuickStart-Template/assets/170245635/0231f1c2-4036-47cc-aa69-9ca83bfb812c" height=90px width=90px/>
+     <h1 align="center">Easy Access</h1>
+     <img src="https://github.com/abhinavkumar2369/Easy-Access/assets/170245635/f8041378-6018-4a60-9b3e-4bf3051d789b" height=90px width=90px/>
      <br/>
      <br/>
-     <img alt="Static Badge" src="https://img.shields.io/badge/Website-red?style=for-the-badge">
+     <img alt="Static Badge" src="https://img.shields.io/badge/Website-yellow?style=for-the-badge">
      <img alt="Static Badge" src="https://img.shields.io/badge/Web%20Development-7F00FF?style=for-the-badge">
      <br/>
      <br/>
@@ -20,24 +20,24 @@
      <!-- --------------------------------------------- -->
      <br/>
      <!-- License -->
-     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinavkumar2369/Vite-QuickStart-Template">
+     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinavkumar2369/Easy-Access">
      <br/>
      <!-- Commit Count -->
-     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinavkumar2369/Vite-QuickStart-Template/main">
+     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinavkumar2369/Easy-Access/main">
      <!-- Repo Size -->
-     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinavkumar2369/Vite-QuickStart-Template?style=flat&color=orange">
+     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinavkumar2369/Easy-Access?style=flat&color=orange">
      <!-- Repo Code -->
-     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinavkumar2369/Vite-QuickStart-Template">
+     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinavkumar2369/Easy-Access">
      <br/>
-     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinavkumar2369/Vite-QuickStart-Template?style=flat&color=orange">
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinavkumar2369/Easy-Access?style=flat&color=orange">
      <!-- Language Count -->
-     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinavkumar2369/Vite-QuickStart-Template">
+     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinavkumar2369/Easy-Access">
      <!-- Watchers -->
-     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinavkumar2369/Vite-QuickStart-Template?style=flat">
+     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinavkumar2369/Easy-Access?style=flat">
      <!-- Forks -->
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinavkumar2369/Vite-QuickStart-Template?style=flat&color=orange">
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinavkumar2369/Easy-Access?style=flat&color=orange">
      <br/>
-     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinavkumar2369/Vite-QuickStart-Template">
+     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinavkumar2369/Easy-Access">
 </div>
 
 
@@ -45,19 +45,18 @@
 
 
 ## Overview 🌟
-Write about the project over here.
+A login web page template made using React, integratable to any website.
 
 
 ## Features 🚀
-- 1
-- 2
+- Responsive Website
+- Integratable to any web page.
 
 
 <!------------------------------------------------->
   
 
-## [➡️ Calculator ](https://username.github.io/Project-Name/)
-![Image](https://github.com/abhinavkumar2369/Vite-QuickStart-Template/assets/170245635/14bb080a-539b-4474-bed0-b9afdbd3a4c3)
+## [➡️ Easy Access ](https://abhinavkumar2369.github.io/Easy-Access/)
 
 
 <!------------------------------------------------->
