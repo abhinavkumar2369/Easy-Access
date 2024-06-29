@@ -13,6 +13,8 @@ body {
   font-family: "Roboto", sans-serif;
   overflow-x: hidden;
   overflow-y: hidden;
+  background:url(Resources/background.svg);
+    background-size: cover;
 }
 
 
