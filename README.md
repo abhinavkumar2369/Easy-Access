@@ -57,6 +57,7 @@ A login web page template made using React, integratable to any website.
   
 
 ## [➡️ Easy Access ](https://abhinavkumar2369.github.io/Easy-Access/)
+![image](https://github.com/abhinavkumar2369/Easy-Access/assets/170245635/bbbe86b3-02b7-4a86-9be1-5a25d2a911c3)
 
 
 <!------------------------------------------------->
