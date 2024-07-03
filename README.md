@@ -94,7 +94,7 @@ A login web page template made using React, integratable to any website.
 - For Local network access run
 
   ```bash
-  npm run dev --host
+  npm run dev -- --host
   ```
   
 - Open it in your browser to see the project running.
